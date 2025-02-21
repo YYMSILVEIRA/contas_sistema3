@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<chartdata>
+<col>
+<source>ADatabase</source>
+<ssl/>
+<servername>localhost</servername>
+<username>root</username>
+<password>KXN07wUDJBSoICiA+Q1iNsLFWBS0Wwc/owd5A4lXX0o=</password>
+<dbname>teste_contas_sistema</dbname>
+<dbconnected>1</dbconnected>
+<sql>SELECT * FROM `contas_pagar` LIMIT 10 </sql><type>area</type>
+<xaxis>SQL1:{col}fornecedor{/col}{data}SELECT * FROM `contas_pagar` LIMIT 10{/data}</xaxis><yaxis>SQL1:{col}valor{/col}{data}SELECT * FROM `contas_pagar` LIMIT 10{/data}</yaxis>
+<xmodel/>
+<xsort/>
+<ymodel/>
+<ysort/>
+<size/><text/>
+<maptype/>
+<title/><orientation>v</orientation><filter>false</filter><dropdown>false</dropdown><legposition/><name>0</name><xaxistitle/><yaxistitle/><height>0</height><width>0</width><datalabel>false</datalabel><showgrid>true</showgrid><showline>true</showline><tracename>Valor gasto por fornecedor</tracename><yntitle/>
+<rdbms>mysql</rdbms>
+<file/>
+<json/>
+<refresh>0</refresh>
+<streaming>n</streaming>
+<color/><border_color/><borderwidth>0</borderwidth><tablefontsize>9</tablefontsize><csvdata>false</csvdata><side>left</side><plot>dynamic</plot></col>
+<showhidefilter>hide</showhidefilter>
+</chartdata>

@@ -1,0 +1,50 @@
+Date: 2024-09-16: Version 7.2 of the Dashboard Builder introduces the highly anticipated Drill-Through Chart feature, allowing users to click on data points for deeper analysis, marking a significant enhancement in data exploration capabilities. This release also includes important bug fixes, such as resolving SQL Server row limit issues, improving pivot table rendering, fixing inconsistencies in the query builder, and ensuring proper handling of special characters in queries. These updates are designed to provide a smoother, more reliable dashboard experience for all users
+Date: 2024-05-01: version 7.1:We're thrilled to announce the release of Dashboard Builder version 7.1, featuring enhancements and fixes that elevate your data visualization experience. With improved localhost compatibility, you can seamlessly integrate ChatGPT and access comprehensive data analysis reports even from your local environment. Take control of your pivot table with a new limit feature, while enjoying secure ODBC SSL connections. Customize your dashboard themes with separate colors for each number chart, and experience smoother interactions with HTML dashboard responses. Say goodbye to bugs with fixed PHP code generation. Upgrade now to access advanced features and enhance the attractiveness and user-friendliness of your card visualizations.
+Date: 2024-03-15: version 7.0: Introducing a groundbreaking feature allowing users to analyze data powered by ChatGPT's advanced AI capabilities for deeper insights. This update also addressed multilingual-related issues, streamlined database selection processes, and fixed compatibility with MySQL database names containing "-". Alongside these enhancements, we've made general improvements to boost performance and stability. Upgrade now to experience a more seamless and powerful data analytics journey.
+Date: 2024-01-20: version 6.6: Dashboard Builder 6.6 introduces the ability  to showcase chat data directly within the chart and download chart data as CSV, an extension of the trace limit to 20 for enhanced performance monitoring, the exciting addition of Chinese language support. alongside crucial fixes addressing the resolution of the Query Builder and the correction of Oracle-related issues.
+Date: 2023-08-15: Version 6.5: This release includes the WP plugin. Allows you to generate a WordPress plugin for your dashboard with a single click. Making a heatmap with a pivot table has never been easier. Introduced two new Dashboard themes. Fixed the single quote issue in the pivot table. 
+Date: 2023-08-04: Version 6.4 This release includes new features: Real-time dashboard now supports all major chart types, including line, bar, pie, donut, bubble, kpi chart, and gauge chart. Create a pivot table with a few clicks now. Minor bug fixes and security enhancements.. 
+Date: 2023-06-30: version 6.3:New features include: user access management, the ability to share dashboards with both the public and other users, introduced config file to simplify dashboard builder configuration, addition of Japanese language and a fix for the duplicate users issue. 
+Date: 2023-05-10: version 6.2: Prevent data from security risks such as sql injection, no default selection when run a query, File Save/Open sorting order, Copy a Chart feature added
+Date: 2023-03-24 version 6.1: Added Rich Filter Controller gadget, fixed Italian language issue
+Date: 2022-12-12: version 6.0: Fixed gauge chart with max value, fixed table default color issue.add KPI chart, font and background color for chart, added user management
+Date: 2022-11-28: version 5.9:New Features added: The interface is now password protected. resolved real-time and streaming dashboard issues.
+Date: 2022-09-02: Version 5.8 : Customizable Table font size,  laravel code generator, rassian langauge, fixed table chart where clause, Static Chart, fixed mobile device issue
+Date: 2022-08-16 Version 5.7.3: Fixed map, bubble chart issue, added more theme.
+Date: 2022-08-08 Version 5.7.2 Fixed sorting order issue when no Model is selected.
+Date: 2022-08-04 version 5.7.1/ Fixed forecasting when y-axis is a number, 
+Date: 2022-07-10 version 5.7/ Release adds new dashboard theme features, colour, font-color, and background colour options for charts and dashboards,fixed bubble size issue, and fixed take a tour previous button working.
+fixed forecasting issue when the y-axis is a number, fixed bubble size issue, fixed take a tour's previous button working. 
+Date: 2022-06-22 #version 5.6/Extended Realtime and streaming dashboard from JSON only to any other database,  PHP Generation to Create PHP Code. Optomized database connectivity, improved performance and stability. 
+Date: 2022-05-25 #version 5.5/Updated User Interface, included Arabic language with RTL, Bootstrap 5 integration
+Date: 2022-03-04 #version 5.4/Add legacy mode: fixed Pie chart color issue, solved PHP 8 compatable isue
+Date: 2022-01-27 #version 5.3/New Features added: Forecasting, RTF, Arabic, fixed date sorting issue, solved PHP 8 compatable isue
+Date: 2021-12-20 #version 5.2: Fixed Table issue, fixed multilingual ascent issue,  security enhancement, Dashboard level filter
+Date: 2021-11-11#Version 5.1/Fixed JS errors
+Date: 2021-10-01#Version 5.0/New Features added: Real time dashboard
+Dated: 2021-08-03#Verion 4.9/New Features added: Chart filtering. Fixed Postgres Shchema case senstive issue
+Dated: 2021-07-01#Verion 4.8/New Features added: Prerequisite checks, user-friendly database connection message, custom color for KPI indicators, DIV issue fixed on code generator
+Dated: 2021-05-28#Version 4.7/New Features added: Read JSON
+Dated: 2021-03-24#Version 4.6/Fixed mobile view in code generator. New Feature added: text on graph, customize pie and donut chart color
+Dated: 2021-01-14#Version 4.5/Fixed database port issue, Fixed filename issue when sampledata is loaded, add preview feature, download dashbaord as image, print dashboard , phpinfo();
+Dated: 2020-05-27#Version 4.2/New Feature added: Data Analytics tool, fixed multilangual issue
+Dated: 2020-04-05#Version 4.1/New Feature added: Multilingual
+Dated: 2020-03-05#Version 4.0/Fixed PostgreSQL database server port issue
+Dated: 2020-01-15#version 3.9/New Features added: Ability to connect to Oracle database.
+Dated: 2019-11-25#version 3.8/New Features added: Drop down menu to show a trace at a time.
+Dated: 2019-10-18#Version 3.7New Features added:Take a tour and a New Table as chart added
+Dated:2019-09-15#Version 3.6/Fixed changes database to XSL files issue. Changes KPI to Number. Add new feature: Legends position, Gauge Chart, Add shadow effects Chart generator. Sharing
+Dated:2019-08-22#Version 3.5/New Features added: Ability to select CSV/XLS files from server's folder already uploaded files, fixed XAMPP multi charts warning message. 
+Dated:2019-06-15#Version 3.4/New Features added: Read data from Google Drive 
+Dated:2019-05-14#Version 3.3/New Features added: Sunburst chart
+Dated:2019-01-14#Version 3.2/Fixed XLSX and uploading issue, 3D Line chart added
+Dated:2018-11-11#Version 3.1/New Features added:Ability to add multiple Y-axis to Combination charts
+Dated:2018-09-01#Version 3.0/Added Combination Charts
+Dated:2018-08-26#Version 2.19/Ability to view chart during chart design in chart setting panel. 
+Dated:2018-07-23#Version 2.1.18/D3.js framework updated. Sankey Graph added as new chart type.
+Dated:2018-06-01#Version 2.1.17/New Feature added. Ability to customize color for charts.
+Dated:2018-05-26#Version 2.1.16/Fixed cross OS file handling issue
+Dated:2018-04-14#Version 2.1.15//Released with new functionalities. ability to add multiple panels and drag/drop/resize panel
+Dated:2018-02-14#Version 2.1.13//Fixed data clear function
+Dated:2018-01-30#Version 2.1.12//Load Sample data function added. handled special character from SQL query submission. 
+Dated:2017-11-30#Version 2.1.10 // User Friendly Error message when invalid Query supplied

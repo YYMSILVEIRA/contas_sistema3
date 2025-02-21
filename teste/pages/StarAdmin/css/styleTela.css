@@ -1,0 +1,46 @@
+body{
+	background-image: url(../images/background.jpg);
+
+
+}
+
+
+.caixa{
+	width: 500px;
+	height: 30	0px;
+	margin: auto;
+	position: relative;
+	top: 150px;
+	background-color: #FFF;
+	border-style: outset;
+	padding: 10px;
+	border-radius: 15px;
+	box-shadow: 3px 2px 8px 3px;
+}
+
+
+.form-control{
+	padding: 20px;
+
+
+}
+
+
+#log{
+	text-align: center;
+
+}
+
+button{
+	margin-top: 50px;
+
+}
+
+.baixo{
+
+padding-top: 10px;
+
+
+
+}
+

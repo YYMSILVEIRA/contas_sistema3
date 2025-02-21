@@ -1,0 +1,30 @@
+Editor2.php:263 Erro ao carregar o arquivo: TypeError: l.indent is not a function
+    at Object.token (php.min.js:1:13085)
+    at vt (codemirror.min.js:1:18497)
+    at gt (codemirror.min.js:1:18255)
+    at codemirror.min.js:1:17990
+    at to.iterN (codemirror.min.js:1:90928)
+    at no.iterN (codemirror.min.js:1:92445)
+    at ho.iterN (codemirror.min.js:1:92445)
+    at ho.iter (codemirror.min.js:1:98512)
+    at pt (codemirror.min.js:1:17969)
+    at ft (codemirror.min.js:1:17148)
+(anonymous) @ Editor2.php:263
+Promise.catch
+(anonymous) @ Editor2.php:262
+trigger @ event-handler.js:289
+show @ modal.js:101
+toggle @ modal.js:93
+(anonymous) @ modal.js:365
+i @ event-handler.js:118Understand this errorAI
+2php.min.js:1 Uncaught TypeError: l.indent is not a function
+    at Object.token (php.min.js:1:13085)
+    at vt (codemirror.min.js:1:18497)
+    at gt (codemirror.min.js:1:18255)
+    at codemirror.min.js:1:17990
+    at to.iterN (codemirror.min.js:1:90928)
+    at no.iterN (codemirror.min.js:1:92445)
+    at ho.iterN (codemirror.min.js:1:92445)
+    at ho.iter (codemirror.min.js:1:98512)
+    at pt (codemirror.min.js:1:17969)
+    at ft (codemirror.min.js:1:17148)
